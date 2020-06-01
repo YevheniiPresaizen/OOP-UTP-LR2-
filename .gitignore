@@ -1,0 +1,12 @@
+# dependencies
+/idea
+/.idea
+
+
+# production
+/out
+
+# misc
+.idea
+
+.DS_Store
